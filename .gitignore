@@ -36,3 +36,8 @@ examples/*/test
 *.gcno
 *.gcda
 *.gcov
+
+# CMake related build files
+CMakeCache.txt
+out/
+CMakeFiles/
